@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "IS415-AY24-25-G11",
+    "section": "",
+    "text": "We are group 11, taking IS415 - Geospatial Analytics and Applications.\nHere are our group members:\n\nWan Bo Qiang, Dexter\nEugene Toh\nLiang Yuheng"
+  },
+  {
+    "objectID": "index.html#about-us",
+    "href": "index.html#about-us",
+    "title": "IS415-AY24-25-G11",
+    "section": "",
+    "text": "We are group 11, taking IS415 - Geospatial Analytics and Applications.\nHere are our group members:\n\nWan Bo Qiang, Dexter\nEugene Toh\nLiang Yuheng"
+  },
+  {
+    "objectID": "index.html#our-proposal",
+    "href": "index.html#our-proposal",
+    "title": "IS415-AY24-25-G11",
+    "section": "Our Proposal",
+    "text": "Our Proposal\nWhen President Rodrigo Duterte took office in Philippines in 2016, a national “war on drugs” was declared and carried out. It has lead to the death of over 12,000 Filipinos to date, with at least 2,500 of the deaths attributed to the Philippine National Police. The Human Rights Watch(HRW) research found evidence of police falsifying evidence to get convictions, leading to unjust killings. (HRW, n.d.)\nNow that a new President Ferdinand Marcos Jr. has taken office in 2022, he promised to end the killings and focus on rehabilitation. However, killings still seem to be ongoing till the current day (Yan, 2024). In our project, we have 2 main objectives:\n\nWe want to find out how the “War on Drugs” was occurring in Philippines, to see if there are any patterns over where most cases took place. We plan to use Spatial Point Patterns Analysis to identify any clustering of cases.\nWe want to see if the killings have truly been reduced under President Ferdinand Marcos Jr. We plan to use Spatio-Temporal Point Patterns Analysis to see the pattern of cases from 2016 to 2024."
+  },
+  {
+    "objectID": "index.html#our-data",
+    "href": "index.html#our-data",
+    "title": "IS415-AY24-25-G11",
+    "section": "Our Data",
+    "text": "Our Data\nThis is the data we plan to use. Do note that this may be added on to during our further research.\n\nPhilippines data from Armed Conflict Location & Event Data Project (ACLED). The killings are logged as “Political Violence” and is recorded by ACLED (ACLED, 2024)\nPhilippines boundary data from HDX."
+  },
+  {
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "IS415-AY24-25-G11",
+    "section": "References",
+    "text": "References\nHuman Rights Watch. (n.d.) Philippines’ ‘War on Drugs’. https://www.hrw.org/tag/philippines-war-drugs\nYan, J., & Schmidt, J. (2024, May 19). The Sunday Story: Life in the Shadow of the Philippines’ Drug War. National Public Radio. https://www.npr.org/2024/05/19/1198912731/philippines-drug-war-duterte-marcos\nArmed Conflict Location & Event Data Project. (2024, April 26). Philippines Drug War. https://acleddata.com/knowledge-base/philippines-drug-war/"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]

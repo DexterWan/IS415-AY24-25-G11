@@ -4,6 +4,7 @@ project:
 website:
   title: "IS415-AY24-25-G11"
   navbar:
+    background: grey
     left:
       - href: index.qmd
         text: Home

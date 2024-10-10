@@ -32,8 +32,6 @@ This is the data we plan to use. Do note that this may be added on to during our
 
 -   [Philippines boundary data](https://data.humdata.org/dataset/cod-ab-phl) from HDX.
 
--   
-
 ## References
 
 Human Rights Watch. (n.d.) *Philippines' 'War on Drugs'.* <https://www.hrw.org/tag/philippines-war-drugs>
