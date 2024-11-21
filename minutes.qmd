@@ -1,0 +1,100 @@
+---
+title: "Meeting Minutes"
+author: "Dexter Wan, Liang Yuheng, Eugene Toh"
+date: "November 20, 2024"
+date-modified: "last-modified"
+execute: 
+  eval: true
+  echo: true
+  freeze: true
+---
+
+Here are our meeting minutes!
+
+## **21 Oct 24**
+
+### Agenda:
+
+-   Discuss the splitting of tasks
+
+-   Discuss the data to be used from ACLED
+
+### Discussion Outcomes:
+
+-   We will take the data as is
+
+    -   It is hard to differentiate between actual cases against suspicion of possession
+
+### Assignments:
+
+-   Eugene: Spatial Weights and Autocorrelation
+
+-   Yuheng: 1st and 2nd order spatial point pattern methods
+
+-   Dexter: Data prep, spatiotemporal, Research on Geographical Segmentation and GWR
+
+## **30 Oct 24**
+
+### Agenda:
+
+-   Align individual Take-home Exercise 3
+
+-   Discuss factors to include in shinyapp that we have not individually thought of.
+
+### Factors to include:
+
+-   Should include type of graphs for general observation counts
+
+-   Should allow filtering of event for general observation counts
+
+-   2nd order should all be pre-calculated to allow for fast retrieval of results in shinyapp.
+
+-   For spatial weight application, it should be in one page
+
+-   Users should have a dropdown that allows choosing between global/local Moran I/Geary C
+
+## **11 Nov 24**
+
+### Agenda:
+
+Consolidate progress on ShinyApp
+
+Discuss assignment of remaining tasks to each member 
+
+### ShinApp:
+
+-   Need to combine
+
+-   2nd Spatial Point Pattern Analysis needs to be pre-computed
+
+    -   To group by year instead
+
+    -   Limit to only top 5 provinces with the most number of cases.
+
+### Assignment of tasks:
+
+-   Poster
+
+    -   By: 13 Nov
+
+    -   Dexter to create poster, each to do their own Shiny Application components description and pictures
+
+-   ShinyApp compilation and testing
+
+    -   By: 17 Nov
+
+    -   Dexter to start merging and uploading
+
+    -   Yu Heng to recompute 2nd SPP before merging
+
+-   Netlify project description
+
+    -   By: 24 Nov
+
+    -   Dexter
+
+-   ShinyApp User Guide
+
+    -   By: 24 Nov
+
+    -   Each to perform their own portion of the Shiny Application

@@ -1,0 +1,14 @@
+---
+title: "Poster"
+author: "Dexter Wan, Liang Yuheng, Eugene Toh"
+date: "November 20, 2024"
+date-modified: "last-modified"
+execute: 
+  eval: true
+  echo: true
+  freeze: true
+---
+
+Here is the poster we used for our townhall presentation!
+
+![](Images/G11_Poster.jpg){fig-alt="Poster for \"The War on Drugs\""}

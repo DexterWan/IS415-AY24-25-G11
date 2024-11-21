@@ -2,16 +2,31 @@ project:
   type: website
 
 website:
-  title: "IS415-AY24-25-G11"
+  title: "The War on Drugs"
   navbar:
-    background: grey
+    background: "#365b6d"
     left:
       - href: index.qmd
         text: Home
+      - href: description.qmd
+        text: Project Description
+      - href: https://docs.google.com/document/d/10PEjPc6_RwB-MZPJ_h_VSkw3SZJTP2pacvekAETI4Ws/edit?usp=sharing
+        text: User Guide
+      - href: poster.qmd
+        text: Poster
+      - href: minutes.qmd
+        text: Meeting Minutes
+        
+    right:
+      - href: https://is415-dexterw.shinyapps.io/WarOnDrugs/
+        text: ShinyApp
+        icon: Box arrow up-right
+      - href: https://github.com/DexterWan/IS415-AY24-25-G11
+        icon: github
 
 format:
   html:
-    theme: cosmo
+    theme: darkly
     css: styles.css
     toc: true
 

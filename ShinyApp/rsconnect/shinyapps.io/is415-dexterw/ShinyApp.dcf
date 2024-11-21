@@ -1,0 +1,12 @@
+name: ShinyApp
+title: ShinyApp
+username: is415-dexterw
+account: is415-dexterw
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13362423
+bundleId: 9395692
+url: https://is415-dexterw.shinyapps.io/ShinyApp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

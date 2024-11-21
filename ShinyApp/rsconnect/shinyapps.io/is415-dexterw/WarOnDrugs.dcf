@@ -1,0 +1,12 @@
+name: WarOnDrugs
+title: WarOnDrugs
+username: is415-dexterw
+account: is415-dexterw
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13361794
+bundleId: 9396446
+url: https://is415-dexterw.shinyapps.io/WarOnDrugs/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

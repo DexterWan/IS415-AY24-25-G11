@@ -1,0 +1,56 @@
+---
+title: "Project Description"
+author: "Dexter Wan, Liang Yuheng, Eugene Toh"
+date: "November 20, 2024"
+date-modified: "last-modified"
+execute: 
+  eval: true
+  echo: true
+  freeze: true
+---
+
+## The Issue
+
+When President Rodrigo Duterte took office in Philippines in 2016, a national "war on drugs" was declared and carried out. It has lead to the death of over 12,000 Filipinos to date, with at least 2,500 of the deaths attributed to the Philippine National Police. The Human Rights Watch(HRW) research found evidence of police falsifying evidence to get convictions, leading to unjust killings. (HRW, n.d.)
+
+Now that a new President Ferdinand Marcos Jr. has taken office in 2022, he promised to end the killings and focus on rehabilitation. However, killings still seem to be ongoing till the current day (Yan, 2024).
+
+## Our Project
+
+In our project, we have 3 main objectives:
+
+1.  We want to find out how the "War on Drugs" was occurring in Philippines, to see if there are any patterns over where most cases took place.
+
+    1.  We used [**Spatial Point Patterns Analysis**]{.underline} and to identify any clustering of cases . By observing specific provinces, we can determine if there is significant clustering and potentially pinpoint areas that seem to be targeted by the government for drug-related incidents.
+
+    2.  We used [**Spatial Auto-correlation**]{.underline} to identify any outliers. Global and Local analysis can help to identify clustering across the whole of Philippines, and using Hot-Cold analysis we can identify outlier provinces.
+
+2.  We want to see if the killings have truly been reduced under President Ferdinand Marcos Jr.
+
+    1.  We used **Exploratory Data Analysis (EDA)** to identify the overall number of cases across from the beginning of 2016 till 30 June 2024. This allows us to see the overall number of cases across time, and allows us to filter out cases based on fatality and the type of cases.
+
+    2.  We used [**Spatio-Temporal Point Patterns Analysis**]{.underline} to see the pattern of cases from 2016 to 2024. It allows us to identify the movement of cases across the whole of Philippines. With the option to use fixed-ranges, we can also determine if there is an actual shift in the number of cases or just reduction/increasing number of cases in specific areas.
+
+3.  There are claims that the killings mainly affect the "urban poor". Can we observe this through evaluating the rate of incidents against each province's Gross Domestic Product per Capita (GDPPC)?
+
+    1.  We used [**Linear Regression**]{.underline} to determine if there is any correlation. By calculating the incident rate by taking the total number of incidents divided by the population of each individual province, we can identify if incidents are truly tied to a province's GDPPC.
+
+## Our Data
+
+This is the data we plan to use. Do note that this may be added on to during our further research.
+
+-   Philippines data from [Armed Conflict Location & Event Data Project (ACLED)](https://acleddata.com/). The killings are logged as "Political Violence" and is recorded by ACLED (ACLED, 2024)
+
+-   [Philippines boundary data](https://data.humdata.org/dataset/cod-ab-phl) from HDX.
+
+-   2020 Population and 2018-2022 GDPPC data from [Philippine Statistics Authority](https://psa.gov.ph/)
+
+## References
+
+Human Rights Watch. (2018, January 18.) *Philippines: Duterte's 'Drug War' Claims 12,000+ Lives.* <https://www.hrw.org/news/2018/01/18/philippines-dutertes-drug-war-claims-12000-lives>
+
+Human Rights Watch. (n.d.) *Philippines' 'War on Drugs'.* <https://www.hrw.org/tag/philippines-war-drugs>
+
+Yan, J., & Schmidt, J. (2024, May 19). The Sunday Story: Life in the Shadow of the Philippines' Drug War. *National Public Radio.* <https://www.npr.org/2024/05/19/1198912731/philippines-drug-war-duterte-marcos>
+
+Armed Conflict Location & Event Data Project. (2024, April 26). *Philippines Drug War.* <https://acleddata.com/knowledge-base/philippines-drug-war/>

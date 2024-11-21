@@ -2,37 +2,37 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "IS415-AY24-25-G11",
+    "title": "The War on Drugs",
     "section": "",
-    "text": "We are group 11, taking IS415 - Geospatial Analytics and Applications.\nHere are our group members:\n\nWan Bo Qiang, Dexter\nEugene Toh\nLiang Yuheng"
+    "text": "A Humanitarian Crisis in Philippines\nBy Group 11: Dexter Wan, Liang Yuheng, Eugene Toh\nWhen President Rodrigo Duterte took office in Philippines in 2016, a national “war on drugs” was declared and carried out. It has lead to the death of over 12,000 Filipinos to date, with at least 2,500 of the deaths attributed to the Philippine National Police. The Human Rights Watch(HRW) research found evidence of police falsifying evidence to get convictions, leading to unjust killings. (HRW, n.d.)\nNow that a new President Ferdinand Marcos Jr. has taken office in 2022, he promised to end the killings and focus on rehabilitation. However, killings still seem to be ongoing till the current day (Yan, 2024). In our project, we have 3 main objectives:"
   },
   {
     "objectID": "index.html#about-us",
     "href": "index.html#about-us",
-    "title": "IS415-AY24-25-G11",
-    "section": "",
-    "text": "We are group 11, taking IS415 - Geospatial Analytics and Applications.\nHere are our group members:\n\nWan Bo Qiang, Dexter\nEugene Toh\nLiang Yuheng"
+    "title": "The War on Drugs",
+    "section": "About Us",
+    "text": "About Us\nWe are group 11, taking IS415 - Geospatial Analytics and Applications.\nHere are our group members:\n\nWan Bo Qiang, Dexter\nEugene Toh\nLiang Yuheng"
   },
   {
     "objectID": "index.html#our-proposal",
     "href": "index.html#our-proposal",
-    "title": "IS415-AY24-25-G11",
+    "title": "The War on Drugs",
     "section": "Our Proposal",
     "text": "Our Proposal\nWhen President Rodrigo Duterte took office in Philippines in 2016, a national “war on drugs” was declared and carried out. It has lead to the death of over 12,000 Filipinos to date, with at least 2,500 of the deaths attributed to the Philippine National Police. The Human Rights Watch(HRW) research found evidence of police falsifying evidence to get convictions, leading to unjust killings. (HRW, n.d.)\nNow that a new President Ferdinand Marcos Jr. has taken office in 2022, he promised to end the killings and focus on rehabilitation. However, killings still seem to be ongoing till the current day (Yan, 2024). In our project, we have 2 main objectives:\n\nWe want to find out how the “War on Drugs” was occurring in Philippines, to see if there are any patterns over where most cases took place. We plan to use Spatial Point Patterns Analysis to identify any clustering of cases.\nWe want to see if the killings have truly been reduced under President Ferdinand Marcos Jr. We plan to use Spatio-Temporal Point Patterns Analysis to see the pattern of cases from 2016 to 2024."
   },
   {
     "objectID": "index.html#our-data",
     "href": "index.html#our-data",
-    "title": "IS415-AY24-25-G11",
+    "title": "The War on Drugs",
     "section": "Our Data",
     "text": "Our Data\nThis is the data we plan to use. Do note that this may be added on to during our further research.\n\nPhilippines data from Armed Conflict Location & Event Data Project (ACLED). The killings are logged as “Political Violence” and is recorded by ACLED (ACLED, 2024)\nPhilippines boundary data from HDX."
   },
   {
     "objectID": "index.html#references",
     "href": "index.html#references",
-    "title": "IS415-AY24-25-G11",
+    "title": "The War on Drugs",
     "section": "References",
-    "text": "References\nHuman Rights Watch. (n.d.) Philippines’ ‘War on Drugs’. https://www.hrw.org/tag/philippines-war-drugs\nYan, J., & Schmidt, J. (2024, May 19). The Sunday Story: Life in the Shadow of the Philippines’ Drug War. National Public Radio. https://www.npr.org/2024/05/19/1198912731/philippines-drug-war-duterte-marcos\nArmed Conflict Location & Event Data Project. (2024, April 26). Philippines Drug War. https://acleddata.com/knowledge-base/philippines-drug-war/"
+    "text": "References\nHuman Rights Watch. (2018, January 18.) Philippines: Duterte’s ‘Drug War’ Claims 12,000+ Lives. https://www.hrw.org/news/2018/01/18/philippines-dutertes-drug-war-claims-12000-lives\nHuman Rights Watch. (n.d.) Philippines’ ‘War on Drugs’. https://www.hrw.org/tag/philippines-war-drugs\nYan, J., & Schmidt, J. (2024, May 19). The Sunday Story: Life in the Shadow of the Philippines’ Drug War. National Public Radio. https://www.npr.org/2024/05/19/1198912731/philippines-drug-war-duterte-marcos\nArmed Conflict Location & Event Data Project. (2024, April 26). Philippines Drug War. https://acleddata.com/knowledge-base/philippines-drug-war/"
   },
   {
     "objectID": "about.html",
@@ -40,5 +40,89 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "minutes.html",
+    "href": "minutes.html",
+    "title": "Meeting Minutes",
+    "section": "",
+    "text": "Here are our meeting minutes!"
+  },
+  {
+    "objectID": "minutes.html#oct-24",
+    "href": "minutes.html#oct-24",
+    "title": "Meeting Minutes",
+    "section": "21 Oct 24",
+    "text": "21 Oct 24\n\nAgenda:\n\nDiscuss the splitting of tasks\nDiscuss the data to be used from ACLED\n\n\n\nDiscussion Outcomes:\n\nWe will take the data as is\n\nIt is hard to differentiate between actual cases against suspicion of possession\n\n\n\n\nAssignments:\n\nEugene: Spatial Weights and Autocorrelation\nYuheng: 1st and 2nd order spatial point pattern methods\nDexter: Data prep, spatiotemporal, Research on Geographical Segmentation and GWR"
+  },
+  {
+    "objectID": "minutes.html#oct-24-1",
+    "href": "minutes.html#oct-24-1",
+    "title": "Meeting Minutes",
+    "section": "30 Oct 24",
+    "text": "30 Oct 24\n\nAgenda:\n\nAlign individual Take-home Exercise 3\nDiscuss factors to include in shinyapp that we have not individually thought of.\n\n\n\nFactors to include:\n\nShould include type of graphs for general observation counts\nShould allow filtering of event for general observation counts\n2nd order should all be pre-calculated to allow for fast retrieval of results in shinyapp.\nFor spatial weight application, it should be in one page\nUsers should have a dropdown that allows choosing between global/local Moran I/Geary C"
+  },
+  {
+    "objectID": "minutes.html#nov-24",
+    "href": "minutes.html#nov-24",
+    "title": "Meeting Minutes",
+    "section": "11 Nov 24",
+    "text": "11 Nov 24\n\nAgenda:\nConsolidate progress on ShinyApp\nDiscuss assignment of remaining tasks to each member \n\n\nShinApp:\n\nNeed to combine\n2nd Spatial Point Pattern Analysis needs to be pre-computed\n\nTo group by year instead\nLimit to only top 5 provinces with the most number of cases.\n\n\n\n\nAssignment of tasks:\n\nPoster\n\nBy: 13 Nov\nDexter to create poster, each to do their own Shiny Application components description and pictures\n\nShinyApp compilation and testing\n\nBy: 17 Nov\nDexter to start merging and uploading\nYu Heng to recompute 2nd SPP before merging\n\nNetlify project description\n\nBy: 24 Nov\nDexter\n\nShinyApp User Guide\n\nBy: 24 Nov\nEach to perform their own portion of the Shiny Application"
+  },
+  {
+    "objectID": "poster.html",
+    "href": "poster.html",
+    "title": "Poster",
+    "section": "",
+    "text": "Here is the poster we used for our townhall presentation!"
+  },
+  {
+    "objectID": "index.html#a-humanitarian-crisis-in-philippines",
+    "href": "index.html#a-humanitarian-crisis-in-philippines",
+    "title": "The War on Drugs",
+    "section": "",
+    "text": "Protesters and residents hold lighted candles and placards at the wake of Kian Loyd delos Santos, a 17-year-old high school student, who was among the people shot dead last week in an escalation of President Rodrigo Duterte’s war on drugs in Caloocan city, Metro Manila, the Philippines on August 25, 2017. © 2017 Dondi Tawatao / Reuters. Taken from Human Rights Watch (HWR), 2018."
+  },
+  {
+    "objectID": "description.html",
+    "href": "description.html",
+    "title": "Project Description",
+    "section": "",
+    "text": "When President Rodrigo Duterte took office in Philippines in 2016, a national “war on drugs” was declared and carried out. It has lead to the death of over 12,000 Filipinos to date, with at least 2,500 of the deaths attributed to the Philippine National Police. The Human Rights Watch(HRW) research found evidence of police falsifying evidence to get convictions, leading to unjust killings. (HRW, n.d.)\nNow that a new President Ferdinand Marcos Jr. has taken office in 2022, he promised to end the killings and focus on rehabilitation. However, killings still seem to be ongoing till the current day (Yan, 2024)."
+  },
+  {
+    "objectID": "description.html#our-proposal",
+    "href": "description.html#our-proposal",
+    "title": "Project Description",
+    "section": "",
+    "text": "When President Rodrigo Duterte took office in Philippines in 2016, a national “war on drugs” was declared and carried out. It has lead to the death of over 12,000 Filipinos to date, with at least 2,500 of the deaths attributed to the Philippine National Police. The Human Rights Watch(HRW) research found evidence of police falsifying evidence to get convictions, leading to unjust killings. (HRW, n.d.)\nNow that a new President Ferdinand Marcos Jr. has taken office in 2022, he promised to end the killings and focus on rehabilitation. However, killings still seem to be ongoing till the current day (Yan, 2024). In our project, we have 2 main objectives:\n\nWe want to find out how the “War on Drugs” was occurring in Philippines, to see if there are any patterns over where most cases took place. We plan to use Spatial Point Patterns Analysis to identify any clustering of cases.\nWe want to see if the killings have truly been reduced under President Ferdinand Marcos Jr. We plan to use Spatio-Temporal Point Patterns Analysis to see the pattern of cases from 2016 to 2024."
+  },
+  {
+    "objectID": "description.html#our-data",
+    "href": "description.html#our-data",
+    "title": "Project Description",
+    "section": "Our Data",
+    "text": "Our Data\nThis is the data we plan to use. Do note that this may be added on to during our further research.\n\nPhilippines data from Armed Conflict Location & Event Data Project (ACLED). The killings are logged as “Political Violence” and is recorded by ACLED (ACLED, 2024)\nPhilippines boundary data from HDX.\n2020 Population and 2018-2022 GDPPC data from Philippine Statistics Authority"
+  },
+  {
+    "objectID": "description.html#references",
+    "href": "description.html#references",
+    "title": "Project Description",
+    "section": "References",
+    "text": "References\nHuman Rights Watch. (2018, January 18.) Philippines: Duterte’s ‘Drug War’ Claims 12,000+ Lives. https://www.hrw.org/news/2018/01/18/philippines-dutertes-drug-war-claims-12000-lives\nHuman Rights Watch. (n.d.) Philippines’ ‘War on Drugs’. https://www.hrw.org/tag/philippines-war-drugs\nYan, J., & Schmidt, J. (2024, May 19). The Sunday Story: Life in the Shadow of the Philippines’ Drug War. National Public Radio. https://www.npr.org/2024/05/19/1198912731/philippines-drug-war-duterte-marcos\nArmed Conflict Location & Event Data Project. (2024, April 26). Philippines Drug War. https://acleddata.com/knowledge-base/philippines-drug-war/"
+  },
+  {
+    "objectID": "description.html#the-issue",
+    "href": "description.html#the-issue",
+    "title": "Project Description",
+    "section": "",
+    "text": "When President Rodrigo Duterte took office in Philippines in 2016, a national “war on drugs” was declared and carried out. It has lead to the death of over 12,000 Filipinos to date, with at least 2,500 of the deaths attributed to the Philippine National Police. The Human Rights Watch(HRW) research found evidence of police falsifying evidence to get convictions, leading to unjust killings. (HRW, n.d.)\nNow that a new President Ferdinand Marcos Jr. has taken office in 2022, he promised to end the killings and focus on rehabilitation. However, killings still seem to be ongoing till the current day (Yan, 2024)."
+  },
+  {
+    "objectID": "description.html#our-project",
+    "href": "description.html#our-project",
+    "title": "Project Description",
+    "section": "Our Project",
+    "text": "Our Project\nIn our project, we have 3 main objectives:\n\nWe want to find out how the “War on Drugs” was occurring in Philippines, to see if there are any patterns over where most cases took place.\n\nWe used Spatial Point Patterns Analysis and to identify any clustering of cases . By observing specific provinces, we can determine if there is significant clustering and potentially pinpoint areas that seem to be targeted by the government for drug-related incidents.\nWe used Spatial Auto-correlation to identify any outliers. Global and Local analysis can help to identify clustering across the whole of Philippines, and using Hot-Cold analysis we can identify outlier provinces.\n\nWe want to see if the killings have truly been reduced under President Ferdinand Marcos Jr.\n\nWe used Exploratory Data Analysis (EDA) to identify the overall number of cases across from the beginning of 2016 till 30 June 2024. This allows us to see the overall number of cases across time, and allows us to filter out cases based on fatality and the type of cases.\nWe used Spatio-Temporal Point Patterns Analysis to see the pattern of cases from 2016 to 2024. It allows us to identify the movement of cases across the whole of Philippines. With the option to use fixed-ranges, we can also determine if there is an actual shift in the number of cases or just reduction/increasing number of cases in specific areas.\n\nThere are claims that the killings mainly affect the “urban poor”. Can we observe this through evaluating the rate of incidents against each province’s Gross Domestic Product per Capita (GDPPC)?\n\nWe used Linear Regression to determine if there is any correlation. By calculating the incident rate by taking the total number of incidents divided by the population of each individual province, we can identify if incidents are truly tied to a province’s GDPPC."
   }
 ]
